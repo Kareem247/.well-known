@@ -1,0 +1,25 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[[CURRENCIES]]
+code="ARBT"
+issuer="GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR"
+display_decimals=7
+name="Acoshi Rabbit"
+desc="Acoshi Rabbit (ARBT) is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network. Simply join the moon mission and hold as 15% from total supply will be used for strategic marketing to effect the moon mission."
+is_asset_anchored=false
+conditions="There will only ever be 100,000,000,000 ARBT in existence. Join the moon mission and keep spreading the news!."
+image="https://acoshirabbit.keybase.pub/logo.png"
+fixed_number=100000000000
+status="live"
+
+[[CURRENCIES]]
+code="BCT"
+issuer="GC4UPVVIFGVVNKMWUFXXAKWYY6DS4XTJMLEFKU3BMOE7ZGQDSAXDF4V5"
+display_decimals=7
+name="BLACKCHIPTOKEN"
+desc="Blackchiptoken is a decentralised utility token birthed by fervent pioneers and contributors to foster global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
+is_asset_anchored=false
+conditions="There will only ever be 21,000,000,000 BCT in existence. Join the community on telegram @blackchiptoken1 and be part of the movement"
+image="https://blackchiptoken.keybase.pub/BCT.png"
+fixed_number=21000000000
+status="live"

@@ -1,16 +1,17 @@
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+ACCOUNTS=[
+"GCBE3Y6PIA6WNFLMDFWFN4BVRCCZF7S2WKFVVKUVO4INP4YERNFLEUPX",
+"GBG3WHJ4VETTY4K2FU4ZEDKMDNEJFAUFREL2JVRYYIOPRHY6VKJOD7QP"
+]
 
-[[CURRENCIES]]
-code="ARBT"
-issuer="GBJUUYLCALIBUOLEWDJKAWCWVWQ7AV3T2FBFVVNB3KRJIZ3U2RFSCDLR"
-display_decimals=7
-name="Acoshi Rabbit"
-desc="Acoshi Rabbit (ARBT) is a revolutionary memecoin hyper-focused on enriching poor people and small players in the cryptoverse through Stellar; the most affordable, fast and secure blockchain network. Simply join the moon mission and hold as 15% from total supply will be used for strategic marketing to effect the moon mission."
-is_asset_anchored=false
-conditions="There will only ever be 100,000,000,000 ARBT in existence. Join the moon mission and keep spreading the news!."
-image="https://acoshirabbit.keybase.pub/logo.png"
-fixed_number=100000000000
-status="live"
+[DOCUMENTATION]
+ORG_NAME="BCT Global Community"
+ORG_URL="https://blackchiptoken.blogspot.com"
+ORG_LOGO="https://bct-toml.github.io/BCT.png"
+ORG_DESCRIPTION="BCT Global Community is a decentralised community, driven by fervent pioneers and contributors that are unified with the goal of fostering global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
+ORG_PHYSICAL_ADDRESS="Worldwide"
+ORG_KEYBASE="blackchiptoken"
+ORG_TWITTER="blackchiptoken"
+ORG_OFFICIAL_EMAIL=""
 
 [[CURRENCIES]]
 code="BCT"
@@ -20,6 +21,6 @@ name="BLACKCHIPTOKEN"
 desc="Blackchiptoken is a decentralised utility token birthed by fervent pioneers and contributors to foster global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
 is_asset_anchored=false
 conditions="There will only ever be 21,000,000,000 BCT in existence. Join the community on telegram @blackchiptoken1 and be part of the movement"
-image="https://blackchiptoken.keybase.pub/BCT.png"
+image="https://bct-toml.github.io/BCT.png"
 fixed_number=21000000000
 status="live"

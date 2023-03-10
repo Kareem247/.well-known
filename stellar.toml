@@ -6,7 +6,7 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="BCT Global Community"
 ORG_URL="https://blackchiptoken.blogspot.com"
-ORG_LOGO="https://bct-toml.github.io/BCT.png"
+ORG_LOGO="https://bct-toml.github.io/logo.png"
 ORG_DESCRIPTION="BCT Global Community is a decentralised community, driven by fervent pioneers and contributors that are unified with the goal of fostering global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
 ORG_PHYSICAL_ADDRESS="Worldwide"
 ORG_KEYBASE="blackchiptoken"
@@ -21,6 +21,6 @@ name="BLACKCHIPTOKEN"
 desc="Blackchiptoken is a decentralised utility token birthed by fervent pioneers and contributors to foster global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
 is_asset_anchored=false
 conditions="There will only ever be 21,000,000,000 BCT in existence. Join the community on telegram @blackchiptoken1 and be part of the movement"
-image="https://bct-toml.github.io/BCT.png"
+image="https://bct-toml.github.io/logo.png"
 fixed_number=21000000000
 status="live"

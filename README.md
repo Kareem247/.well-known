@@ -1,1 +1,1 @@
-# coming soon
+# .well-known

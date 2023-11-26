@@ -4,23 +4,29 @@ ACCOUNTS=[
 ]
 
 [DOCUMENTATION]
-ORG_NAME="BCT Global Community"
+ORG_NAME="BCT Global"
 ORG_URL="https://bct-toml.github.io"
 ORG_LOGO="https://bct-toml.github.io/logo.png"
-ORG_DESCRIPTION="BCT Global Community is a decentralised community, driven by fervent pioneers and contributors that are unified with the goal of fostering global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
-ORG_PHYSICAL_ADDRESS="Worldwide"
+ORG_DESCRIPTION="BCT Global is a decentralised community, driven by fervent pioneers and contributors that are unified with the goal of fostering mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global online peer-to-peer marketplace."
+ORG_PHYSICAL_ADDRESS="Decentralized, Worldwide"
 ORG_KEYBASE="blackchiptoken"
 ORG_TWITTER="blackchiptoken"
-ORG_OFFICIAL_EMAIL=""
+ORG_OFFICIAL_EMAIL="info@blackchippers.com"
 
 [[CURRENCIES]]
 code="BCT"
 issuer="GC4UPVVIFGVVNKMWUFXXAKWYY6DS4XTJMLEFKU3BMOE7ZGQDSAXDF4V5"
 display_decimals=7
 name="BLACKCHIP Token"
-desc="Blackchip token is a decentralised utility token birthed by fervent pioneers and contributors to foster global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace."
+desc="Blackchip token is a decentralised utility token birthed by fervent pioneers and contributors to foster mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global online peer-to-peer marketplace."
 is_asset_anchored=false
 conditions="There will only ever be 21,000,000,000 BCT in existence."
 image="https://bct-toml.github.io/logo.png"
 fixed_number=21000000000
 status="live"
+
+[[PRINCIPALS]]
+name="Kareem"
+email="kareemkrbct@gmail.com"
+twitter="blackchiptoken"
+telegram="KareemKR"

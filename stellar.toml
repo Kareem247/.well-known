@@ -11,7 +11,7 @@ ORG_DESCRIPTION="BCT Global is a decentralised community, driven by fervent pion
 ORG_PHYSICAL_ADDRESS="Decentralized, Worldwide"
 ORG_KEYBASE="blackchiptoken"
 ORG_TWITTER="blackchiptoken"
-ORG_OFFICIAL_EMAIL="info@blackchippers.com"
+ORG_OFFICIAL_EMAIL="info@blackchip.com"
 
 [[CURRENCIES]]
 code="BCT"
